@@ -1,0 +1,19 @@
+{
+  "name": "deepmes-api",
+  "version": "1.0.1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepmes/wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepmes/wrapper/issues"
+  },
+  "homepage": "https://github.com/deepmes/wrapper#readme",
+  "description": ""
+}
